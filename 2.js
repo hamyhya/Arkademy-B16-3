@@ -12,7 +12,7 @@ function usernameCheck(username) {
     return false
   }
 
-//username check
+//username chec
 console.log(usernameCheck("@koders"))
 console.log(usernameCheck("@programmerhandal"))
 
