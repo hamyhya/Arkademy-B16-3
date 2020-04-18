@@ -6,7 +6,7 @@ Pada REST API, JSON digunakan sebagai format untuk bertukar data client dan serv
 
 <h4><b>Jawaban Soal Nomor 1-5 menggunakan JavaScript, bisa dijalankan melalui https://es6console.com/</b></h4>
 
-<h4><b>Jawaban Soal Nomor 6C menggunakan Framework Laravel</b></h4>
+<h4><b>Jawaban Soal Nomor 6B dan 6C Membutuhkan Koneksi Internet Untuk Bootstrap. Jawaban Soal 6C Menggunakan Framework Laravel</b></h4>
 1. Install XAMPP http://www.apachefriends.org/index.html<br>
 2. Install Composer dan Laravel https://laravel.com/docs/7.x/installation <br>
 3. Buat database dengan nama "poscrud", lalu import file poscrud.sql<br>
