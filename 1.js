@@ -11,7 +11,7 @@ function MyBio(name, age) {
         ],
         is_married : false,
         list_school : [{
-            name : 'TK Aisyiyah Bustanul Athfal Kalikajar',
+            name : 'TK Aisiyah Bustanul Athfal Kalikajar',
             year_in : 2006,
             year_out : 2008,
             major : null
