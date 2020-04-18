@@ -1,0 +1,22 @@
+.btn {
+    color: white;
+}
+.btn-warning {
+    margin-top: 20px;
+    width: 100px;
+    background-color: #ffcc66;
+}
+.btn-warning:hover {
+    color: white;
+}
+.navbar {
+    box-shadow: 5px 10px 10px #d9d9d9;
+}
+.table {
+    box-shadow: 3px 3px 8px 8px #d9d9d9;
+    border-radius: 20px;
+}
+.search {
+    width: 700px;
+    background-color: #d9d9d9;
+}
