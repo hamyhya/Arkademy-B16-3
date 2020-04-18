@@ -24,5 +24,7 @@ function divideAndShort(number) {
     console.log(sumNum);
 }
 
+
+//example
 divideAndShort(5956560159466056);
 divideAndShort(3634640298273799);
