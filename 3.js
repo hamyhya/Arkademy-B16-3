@@ -8,4 +8,5 @@ function createTri(n) {
   }
 }
 
+//example
 (createTri(5))
