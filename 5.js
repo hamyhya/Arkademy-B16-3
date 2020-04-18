@@ -21,4 +21,5 @@ function createMatrix(ordo) {
     console.log("Total : ", crossA+crossB);
 }
 
+//example
 createMatrix(3);
